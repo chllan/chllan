@@ -1,5 +1,13 @@
-### Hi there 👋
-111223
+### Hihi 大家好喔  👋
+輔仁大學統計資訊學系 大一生
+
+學歷：
+林口國中學生
+明倫高中學生
+
+社團經歷：
+林中管樂團首席
+明倫繽語康輔社活動長
 <!--
 **chllan/chllan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
