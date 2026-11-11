@@ -6,7 +6,7 @@
 看小說、漫畫
 
 現今：
-輔仁大學統計資訊學系 大一生
+輔仁大學統計資訊學系 大四生
 
 學歷：
 林口國中學生
@@ -15,6 +15,7 @@
 社團經歷：
 林中管樂團首席
 明倫繽語康輔社活動長
+輔大管弦樂社總務兼文書
 <!--
 **chllan/chllan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
